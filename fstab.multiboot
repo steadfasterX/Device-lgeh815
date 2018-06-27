@@ -5,4 +5,4 @@
 /dev/block/bootdevice/by-name/recovery     /recovery       emmc    defaults uefi
 /dev/block/bootdevice/by-name/modem        /firmware       emmc    defaults multiboot
 /dev/block/bootdevice/by-name/misc         /misc           emmc    defaults multiboot
-/dev/block/bootdevice/by-name/raw_resources         /raw_ressources           emmc    defaults multiboot
+/dev/block/bootdevice/by-name/raw_resources         /raw_resources           emmc    defaults multiboot
